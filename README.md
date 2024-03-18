@@ -9,13 +9,13 @@ To run this chatbot, you'll need to have Python installed on your machine. Follo
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/DJagad/Langchain_Q-A_Chatbot.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your_repository
+    cd Langchain_Q-A_Chatbot
     ```
 
 3. Install the required dependencies:
@@ -28,6 +28,7 @@ To run this chatbot, you'll need to have Python installed on your machine. Follo
 
     ```plaintext
     OPEN_API_KEY=your_openai_api_key
+    HUGGINGFACEHUB_API_TOKEN = your_huggingface_api_key
     ```
 
 ## Usage
